@@ -1,1 +1,6 @@
 Bakalárska práca - Vývoj webovej aplikácie pre evidenciu odbornej praxe študentov
+
+Odborná prax je štandardnou súčasťou bakalárskych a magisterských študijných programov, ktoré môže študent absolvovať na FPV UKF v Nitre. Spolupráca s rôznymi inštitúciami v regióne na odbornej praxi študentov sa realizuje viacerými spôsobmi, pričom jej manažment vyžaduje koordináciu činností viacerých aktérov a dodržanie zadefinovaných procesov. 
+Cieľom práce je na základe dôkladnej analýzy aktuálneho stavu navrhnúť webovú aplikáciu, ktorú bude možné implementovať na úrovni fakulty. Webová aplikácia bude podporovať existujúce procesy súvisiace s evidenciou a priebehom odbornej praxe študentov. Aplikácia bude vytvorená vo zvolenom frameworku, pričom musí poskytovať ponuku praxe od firiem, prihlasovanie sa študentov, evidenciu zmlúv, hodnotenie študentov, hodnotenie firiem študentmi a reporting.
+Práca má charakter vývoja softvéru, preto sa predpokladá, že sa študent bude venovať analýze, návrhu, ako aj samotnému vývoju a implementácii webovej aplikácie.  
+Požiadavky: Programovanie v PHP a Javascript, znalosť vývoja frontendu a backendu webových aplikácií, skúsenosti s vývojom moderných webových aplikácií, anglický jazyk
